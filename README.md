@@ -35,4 +35,4 @@ Data Preprocessing: The first step is to preprocess the data. In this case, we w
 
 # Conclusion
 
-In this example, we have shown how to use cosine similarity and TF-IDF to create a movie recommendation system. This approach can be used to recommend movies to users based on the titles and descriptions of movies they have previously watched. With this approach, we can recommend movies that are most similar to the user's previous choices, increasing the chances of the user enjoying the recommended movies.
+In this example, shown simple and basic way, how to use cosine similarity and TF-IDF to create a movie recommendation system. This approach can be used to recommend movies to users based on the titles and descriptions of movies they have previously watched. With this approach, we can recommend movies that are most similar to the user's previous choices, increasing the chances of the user enjoying the recommended movies.
